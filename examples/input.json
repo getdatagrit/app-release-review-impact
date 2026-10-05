@@ -1,0 +1,16 @@
+{
+  "apps": [
+    "com.spotify.music",
+    "com.reddit.frontpage",
+    "com.whatsapp",
+    "com.instagram.android",
+    "com.netflix.mediaclient",
+    "com.duolingo"
+  ],
+  "countries": [
+    "us"
+  ],
+  "maxReviewsPerApp": 500,
+  "minReviewsPerVersion": 10,
+  "maxItems": 200
+}
